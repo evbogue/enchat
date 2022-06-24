@@ -1,0 +1,12 @@
+body {
+  font-family: sans-serif;
+}
+
+p { font-size: 1em;}
+
+#composer {
+  position: absolute;
+  bottom: 0;
+}
+
+button, input {font-size: 1em;}
